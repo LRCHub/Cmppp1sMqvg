@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Turquoise",
+  "base_artist": "水瀬いのり",
+  "createdAt": "2026-02-09T17:59:23.988757Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Turquoise",
+      "artist": "Donovan",
+      "has_synced": true,
+      "path": "select/01_Turquoise_Donovan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Turquoise",
+      "artist": "Kilo Kish",
+      "has_synced": true,
+      "path": "select/02_Turquoise_Kilo_Kish.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Turquoise",
+      "artist": "Housse de Racket",
+      "has_synced": true,
+      "path": "select/03_Turquoise_Housse_de_Racket.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Turquoise Boy",
+      "artist": "Sonic Youth",
+      "has_synced": true,
+      "path": "select/04_Turquoise_Boy_Sonic_Youth.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Turquoise Days",
+      "artist": "Echo & The Bunnymen",
+      "has_synced": true,
+      "path": "select/05_Turquoise_Days_Echo_&_The_Bunnymen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "(Beaded Dreams Through) Turquoise Eyes",
+      "artist": "Redbone",
+      "has_synced": false,
+      "path": "select/06_(Beaded_Dreams_Through)_Turquoise_Eyes_Redbone.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Turquoise Days",
+      "artist": "Echo and the Bunnymen",
+      "has_synced": true,
+      "path": "select/07_Turquoise_Days_Echo_and_the_Bunnymen.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Turquoise Fins",
+      "artist": "Pere Ubu",
+      "has_synced": false,
+      "path": "select/08_Turquoise_Fins_Pere_Ubu.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Turquoise",
+      "artist": "Vast",
+      "has_synced": true,
+      "path": "select/09_Turquoise_Vast.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Les Yeux turquoise",
+      "artist": "Manu Chao",
+      "has_synced": true,
+      "path": "select/10_Les_Yeux_turquoise_Manu_Chao.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Turquoise",
+      "artist": "Electric Six",
+      "has_synced": true,
+      "path": "select/11_Turquoise_Electric_Six.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Turquoise",
+      "artist": "水瀬いのり",
+      "has_synced": false,
+      "path": "select/pl_01_Turquoise_水瀬いのり.txt"
+    }
+  ]
+}
